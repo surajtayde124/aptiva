@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #some
+=======
+##some
+>>>>>>> dba6903ce8146dac1099efd14a54b91f6a05133a
 pipeline {
     agent any
 	
